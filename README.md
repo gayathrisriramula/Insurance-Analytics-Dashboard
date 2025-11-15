@@ -13,9 +13,6 @@ The project analyzes insurance performance, tracks sales KPIs, evaluates opportu
 
 ---
 
-## 📁 Project Files Included
-
----
 
 ## 🚀 Project Overview
 
@@ -59,11 +56,6 @@ Dashboards provide insights for branches and executives to monitor achievements,
 
 ---
 
-## 🗂 Suggested Folder Structure
-(Optional, but recommended to keep repo organized)
-
-
----
 
 ## 📑 SQL Concepts Used
 - SELECT, WHERE, GROUP BY  
